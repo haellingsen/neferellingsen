@@ -104,14 +104,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>haellingsen.github.io/index.html at 1929d4c993b2260063900e619153cf05dfd37e01 · haellingsen/haellingsen.github.io · GitHub</title>
+  <title>haellingsen.github.io/PureSnow.js at 9777be6676f868c5d7c19ab79bf8b085926c45ee · haellingsen/haellingsen.github.io · GitHub</title>
     <meta name="description" content="Contribute to haellingsen/haellingsen.github.io development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/24fb7ffd8948eb3e40a93db83792574de9a99b01b6e398ccd077d62e57f89a7c/haellingsen/haellingsen.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="haellingsen.github.io/index.html at 1929d4c993b2260063900e619153cf05dfd37e01 · haellingsen/haellingsen.github.io" /><meta name="twitter:description" content="Contribute to haellingsen/haellingsen.github.io development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/24fb7ffd8948eb3e40a93db83792574de9a99b01b6e398ccd077d62e57f89a7c/haellingsen/haellingsen.github.io" /><meta property="og:image:alt" content="Contribute to haellingsen/haellingsen.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="haellingsen.github.io/index.html at 1929d4c993b2260063900e619153cf05dfd37e01 · haellingsen/haellingsen.github.io" /><meta property="og:url" content="https://github.com/haellingsen/haellingsen.github.io" /><meta property="og:description" content="Contribute to haellingsen/haellingsen.github.io development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/24fb7ffd8948eb3e40a93db83792574de9a99b01b6e398ccd077d62e57f89a7c/haellingsen/haellingsen.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="haellingsen.github.io/PureSnow.js at 9777be6676f868c5d7c19ab79bf8b085926c45ee · haellingsen/haellingsen.github.io" /><meta name="twitter:description" content="Contribute to haellingsen/haellingsen.github.io development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/24fb7ffd8948eb3e40a93db83792574de9a99b01b6e398ccd077d62e57f89a7c/haellingsen/haellingsen.github.io" /><meta property="og:image:alt" content="Contribute to haellingsen/haellingsen.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="haellingsen.github.io/PureSnow.js at 9777be6676f868c5d7c19ab79bf8b085926c45ee · haellingsen/haellingsen.github.io" /><meta property="og:url" content="https://github.com/haellingsen/haellingsen.github.io" /><meta property="og:description" content="Contribute to haellingsen/haellingsen.github.io development by creating an account on GitHub." />
     
 
 
@@ -121,7 +121,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="E6E3:5328:108228C:114988C:61C3C814" data-pjax-transient="true"/><meta name="html-safe-nonce" content="096ea880d83f1288cb0ef6aaf12968819632fb84d488c47c66fcf338b1b966a9" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFNkUzOjUzMjg6MTA4MjI4QzoxMTQ5ODhDOjYxQzNDODE0IiwidmlzaXRvcl9pZCI6IjM0MDI1MjA1MDEzODA0MzM5NDAiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="69cfa51d819d12ca353e7a10b56d0417d74bdc7203c0e614ec0231f49917fd12" data-pjax-transient="true"/>
+  <meta name="request-id" content="D0B0:E93D:1C2FC6A:1D74A9D:61C3C859" data-pjax-transient="true"/><meta name="html-safe-nonce" content="88fccf49df9d0a2331cce17431d149a2d84ef31e07aee117db517ce349cee68f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEMEIwOkU5M0Q6MUMyRkM2QToxRDc0QTlEOjYxQzNDODU5IiwidmlzaXRvcl9pZCI6IjM2MjczOTUwMDUwNzcxMTU3NyIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="b3f8bd15afda899427dae459f15c4d78a1b59c5d585d4cc45af7cb7744034a0e" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:306988075" data-pjax-transient>
 
@@ -177,7 +177,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -228,7 +228,7 @@
       <div class="d-flex flex-items-center">
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
               class="d-inline-block d-lg-none f5 no-underline border color-border-default rounded-2 px-2 py-1 mr-3 mr-sm-5 color-fg-inherit"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a5f185c82149ccbe9a6f6588f6ace7eda33a729b9796aeb62d535511b3ca5d6e"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a29a3b6cd6b5582edc1c6e0b4c9a16561ef73ee13f5ca07bcb38f45d5248e841"
             >
               Sign&nbsp;up
             </a>
@@ -257,57 +257,57 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Features;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f1219ecb3e915028b4782f99f3cd455cfa71c43c98588db1f41ff3a3556f2d77" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Features;&quot;}" href="/features">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Features;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4d5cac47a66b165dbb28f914f496592a100f2388129c54c292f835019b449379" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Features&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Features;&quot;}" href="/features">
       Features
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Mobile;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6c413e836576bccbc0568bc02410ea7d55f84eda89a632f02f77c3fc8bddcc66" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Mobile;&quot;}" href="/mobile">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Mobile;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="782c1a8047b61a16521ba17380ae51a6936f5006255f246f85ed41fc9088836e" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Mobile&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Mobile;&quot;}" href="/mobile">
       Mobile
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Actions;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7ea2c6deccaa2692890527e1a49247ea2fe5c963c383c08ec432f53bf735a1e7" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Actions;&quot;}" href="/features/actions">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Actions;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="15e06a1a6378d18c4659b0d6fbf1732be8fed69181a8335988eae96a7960b386" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Actions;&quot;}" href="/features/actions">
       Actions
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Codespaces;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a06126b6390e123635d76e3856487f41dcf3d15aae1ff1142f789c86056e8ae9" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Codespaces;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7871853fa69330693a8438e5669700c081319a0b955c030a5592912023f21f39" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       Codespaces
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Packages;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="35c138d0f2b42a9754c1d8399e85ff69062dbc8bc0956fcdf9c7e92d679737bb" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Packages;&quot;}" href="/features/packages">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Packages;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3700291f8253aac099f92dc1f2601490ffa28bc045a9a8feb8ff76e085d38002" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Packages;&quot;}" href="/features/packages">
       Packages
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Security;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="aca69371a8ce4e30cb5410ca7429a8f8668cc1aa1c04477ec2f659e50ab1eceb" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Security;&quot;}" href="/features/security">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Security;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="143824525d436e0a7d4d2de8d6bcdcf6786abbb4c5deeca5604ddfc66a9e7d84" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Security;&quot;}" href="/features/security">
       Security
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Code review;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5c1203c41395bdb550d1e8017c89d4a70cf7e00a133583213e69cdaa6e2d6764" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Code review;&quot;}" href="/features/code-review">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Code review;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fa22f1e10bff36399d00825a712bb78e42772c2c4becbf832d68afe39ea0e70c" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Code review;&quot;}" href="/features/code-review">
       Code review
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Issues;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4d8b4ac1d36e973d6efd4f03407693cb8fd7d561c46c78943556660591a907ce" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Issues;&quot;}" href="/features/issues">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Issues;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bdbeb2d34ebcc42ed80f9dfbdf0af66d824a74d96c0b194646fe450421df1b4e" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Issues;&quot;}" href="/features/issues">
       Issues
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Integrations;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0ff80a76a911f632e350145323685e277e552e6d4287f6574acd32782988ca16" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Integrations;&quot;}" href="/features/integrations">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Integrations;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5bde1420a8b1822db8d5a947a041eb41ba2ebcb80c651b1ba643886eab9ac602" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Integrations&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Integrations;&quot;}" href="/features/integrations">
       Integrations
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:GitHub Sponsors;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="096c9a7c2503a4607f05a6995e6f68ea5338be6e7554d28924857bddfcb6b816" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:GitHub Sponsors;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d89138624870f28883386ae1a261b14e66977ce90ba9550f0d24cdfe5acd1784" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       GitHub Sponsors
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Customer stories;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="aaa945b588890f40d4f17152c7523378b250eb04f8f6f2bf2d7505cfc9bce8e4" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Customer stories;&quot;}" href="/customer-stories">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Customer stories;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5ab1d4e89dc36b2fafae8ff8ac86a6bcc3a14beccf5978e7051e8961730f1941" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Why GitHub?&quot;,&quot;action&quot;:&quot;click to go to Customer stories&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Customer stories;&quot;}" href="/customer-stories">
       Customer stories
 </a>  </li>
 
@@ -318,11 +318,11 @@
 
 
               <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Team;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="60cc09aa28052cfa3c3f197192a6ddb60480cb4f89861cae6f10580bdda384d6" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Team;&quot;}" href="/team">Team</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Team;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c7a31b12637d8294d535e8e8555b89382b2dffdaa3223146c0697efbf950accb" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Team&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Team;&quot;}" href="/team">Team</a>
 </li>
 
               <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Enterprise;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="10980fa26f34394eb87cbd812559e39caa1175e0a978b1a82175037d42d1ad53" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Enterprise;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1badb82eba3a6690ccfbd8dcd795b64f6988759ff2a0c27c14ad2b322648ab7e" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Enterprise;&quot;}" href="/enterprise">Enterprise</a>
 </li>
 
 
@@ -335,61 +335,61 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Explore GitHub;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9453a05f9356aedad35cd11077e952e6475c4e35b86268293a959b0c838694e2" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Explore GitHub;&quot;}" href="/explore">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Explore GitHub;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="362d28431a07138a71aaaea74c9e67456f8bb4930ce0ddd21afbd865e8d88c3b" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Explore GitHub&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Explore GitHub;&quot;}" href="/explore">
       Explore GitHub
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Learn and contribute</li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Topics;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="69210115fab9e5221e3cfa777c295951807cff337b86f7f0e979eff38c81cba8" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Topics;&quot;}" href="/topics">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Topics;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="60e47f09930420fbce00d26f802fb581489ffca5889b50393ce917ef1e12b75d" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Collections;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3ad613aa306ab1ceb611ba6a6befebd95e850d8977350d3b50199cbdac5da220" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Collections;&quot;}" href="/collections">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Collections;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="51e748242e3bdcd438698ae742cc606077c77f212b584cc821e52092a863a9c4" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Trending;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="70e62da588727257976dc59a4b49faeae9a023cb233b6898988635bd1f7127e8" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Trending;&quot;}" href="/trending">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Trending;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6abcb02bf4b22372425300097cef0ca3613728e636af548169b363ec0b487362" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Learning Lab;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="61cd15e10a312a55bac3af669422fddfb4faac10a32740dd4b6ef56df07a724f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Learning Lab;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="682f6c2102e9fe597ac165b5de5d84e6d7ed967a55807d6a0ddb0f048babb716" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Learning Lab&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Learning Lab;&quot;}" href="https://lab.github.com/">
       Learning Lab
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Open source guides;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="494e6ae1d1fdc86180a58b9b439fae181e9502d798868618fd7595b2a73f5f11" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Open source guides;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="86adfd051426bcbd3ccf596de4664faacb8686e36edb387c45a6f850738e16a0" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Open source guides&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Open source guides;&quot;}" href="https://opensource.guide">
       Open source guides
 </a>  </li>
 
               <li class="color-fg-muted text-normal f6 text-mono mb-1 border-top pt-3 mt-3 mb-1">Connect with others</li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:The ReadME Project;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3d8b6db3d0382979cd3edcd82391ed5ee4a2f3cde2f2ae4d7dd6a5ef92742662" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:The ReadME Project;&quot;}" href="/readme">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:The ReadME Project;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9749439feee6dcde337ae2c222b46cf3c66e279088c18015ef989cf7d0529d1c" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:The ReadME Project;&quot;}" href="/readme">
       The ReadME Project
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Events;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fb8f4fde32ee35f3ab0b5c328e9b36102fcee3b7defacb74bc2cd9e0c61eaff7" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Events;&quot;}" href="/events">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Events;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="173ee8a1bac77f3e4ddcaf9d820db6e444d21f832b0092ec8920df5e3667dec8" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Events&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Events;&quot;}" href="/events">
       Events
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Community forum;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4908e90c0a4da0ce88fafdd5f01605d16d2cc80516f8c20316bec5b8580ac13a" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Community forum;&quot;}" href="https://github.community">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Community forum;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3db276ecb8764d5ab030c0f6ca36894c49874d33b5c74228db697c8685e871ec" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to Community forum&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Community forum;&quot;}" href="https://github.community">
       Community forum
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:GitHub Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ba8c185a63a314bc0e4d8d503e37903621b90e1836cd2b85840e3763591710a4" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:GitHub Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="da69eba4d7245e35d1e0be1a14ee1c64c1aa28fd4c453e050b76edddbff6eac8" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Education&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:GitHub Education;&quot;}" href="https://education.github.com">
       GitHub Education
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:GitHub Stars program;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d743578e59ff938ab3b645d4b0be13e23838229eb781fbb5d9f71d5d487a5edc" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:GitHub Stars program;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="97c793b8026ee746933d8891d9245ec3094b50e811727dc38f0af305aa059f6f" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Explore&quot;,&quot;action&quot;:&quot;click to go to GitHub Stars program&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:GitHub Stars program;&quot;}" href="https://stars.github.com">
       GitHub Stars program
 </a>  </li>
 
@@ -400,7 +400,7 @@
 
 
             <li class="mr-0 mr-lg-3 position-relative flex-wrap flex-justify-between flex-items-center border-bottom border-lg-bottom-0 d-block d-lg-flex flex-lg-nowrap flex-lg-items-center">
-    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Marketplace;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="75cd692d341304b1fa119fb663fd6c1dbcf3a925e6461c9654d2581dd9febbd7" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
+    <a class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Marketplace;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3a45bf406f8c78cd6fc8b835db259754e49fea8cb82e90e5921aca67bab2a702" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Marketplace&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Marketplace;&quot;}" href="/marketplace">Marketplace</a>
 </li>
 
 
@@ -413,22 +413,22 @@
       <div class="dropdown-menu flex-auto rounded px-0 mt-0 pb-4 p-lg-4 position-relative position-lg-absolute left-0 left-lg-n4">
         <ul class="list-style-none f5 pb-1">
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="18f459b8fef8a0b01ce6fe3462220a6e538b41e1bdd14007e6cc4dbd0c76a1bb" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Plans;&quot;}" href="/pricing">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="77ba84d49ee54ce71f367e3f375b28dcca2edc22f8c2f9bbd8002d38ade6b4e4" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Plans&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Plans;&quot;}" href="/pricing">
       Plans
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Compare plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dd3bdf276f63deef244648810c40868a9855807406e055e96f204b0883ab2af6" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Compare plans;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6cfdd098b24b028538a020084b790e301207720877a0bdd942b6fc9fb217a8dd" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Compare plans&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Compare plans;&quot;}" href="/pricing#compare-features">
       Compare plans
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Contact Sales;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="84d932f7e7add60f838e621b9bc4e65da886d837f1eb8819aa07bde799af7967" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--secondary py-2" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Contact Sales;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="783d4894e0e159d443fd72cde2fc903b59fdd1d2cec5ef78474ec9b28fa8c497" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Contact Sales&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Contact Sales;&quot;}" href="https://github.com/enterprise/contact">
       Contact Sales
 </a>  </li>
 
               <li>
-    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0fde154ef8d7d2161edb7d729759ca6415204855fbc8cddf4a858d6ce56a7a1e" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html;ref_cta:Education;&quot;}" href="https://education.github.com">
+    <a class="lh-condensed-ultra d-block no-underline position-relative Link--primary text-bold border-top pt-4 pb-2 mt-3" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Education;&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="10b5dfdce0a9d28fafec21d5657661925fc37c80e67d93e9a182633709caa75a" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Pricing&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js;ref_cta:Education;&quot;}" href="https://education.github.com">
       Education
 </a>  </li>
 
@@ -470,7 +470,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="KKZFLXhYkEiFceXjwMHdc+U6uIbaqasFfDmFvAtyuzsco+PQJxHPPBh6JD8Wn7WsUGIgfj7OsO+mdB4Vloqb7Q==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="rn8dYrkn/r4V01oCcZejO+dwvZXBqD1GOI0+ttD+2/RUiBROQQ/DSW+85OayxEDhacs1eYlKarrnCFwoygjpeA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -650,9 +650,9 @@
           </div>
 
         <div class="position-relative mr-3 mb-4 mb-lg-0 d-inline-block">
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhaellingsen%2Fhaellingsen.github.io%2Fblob%2F1929d4c993b2260063900e619153cf05dfd37e01%2Fdocs%2Findex.html"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhaellingsen%2Fhaellingsen.github.io%2Fblob%2F9777be6676f868c5d7c19ab79bf8b085926c45ee%2Fdocs%2FPureSnow.js"
             class="HeaderMenu-link flex-shrink-0 no-underline"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="75975e845b1c015b7d2da05722526cf5423cab0fcb62a2f323566e20d38ce820"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4fe6d29fcf28418d503addc162bd58015f84387933e7a1e1ba7e6537b3a8335d"
             data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
             Sign in
           </a>
@@ -660,8 +660,8 @@
 
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=haellingsen%2Fhaellingsen.github.io"
             class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-default rounded px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="75975e845b1c015b7d2da05722526cf5423cab0fcb62a2f323566e20d38ce820"
-            data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="96c7beafb6a972e7def29a65099f604e6faea4e627f9f222f058e193757ced8f" data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4fe6d29fcf28418d503addc162bd58015f84387933e7a1e1ba7e6537b3a8335d"
+            data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6df31b79d51db2868138f53a6d9f45425ec3ff216a569924f042d628cacbac66" data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
           >
             Sign up
           </a>
@@ -751,7 +751,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-      <a href="/login?return_to=%2Fhaellingsen%2Fhaellingsen.github.io" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="580386d682f4e14576bbda23bd8b0dd0c19266956c5304ab347bd9fef3319d63" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+      <a href="/login?return_to=%2Fhaellingsen%2Fhaellingsen.github.io" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e91a37ae6e22abc1ff387d5a85fdc4bed9174fce53aec2a7170c5786811d8a91" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
 </a>
@@ -759,7 +759,7 @@
 
 
     <li>
-          <a href="/login?return_to=%2Fhaellingsen%2Fhaellingsen.github.io" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:306988075,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="518cbe760006459d043d3646c5ec5805350baf06f867004606b144b107967aeb" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a href="/login?return_to=%2Fhaellingsen%2Fhaellingsen.github.io" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:306988075,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cc61a839ca2c758835aa1abeff8a8cd14b373560bb91591d0785246806b6baca" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
       <span id="repo-network-counter" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -769,7 +769,7 @@
 
     <li>
           <div data-view-component="true" class="BtnGroup d-flex">
-      <a href="/login?return_to=%2Fhaellingsen%2Fhaellingsen.github.io" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:306988075,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ffe5a1acfff3aae6d7b853ce7938e6a0b17e4ccf326a5bb6b715e2fd0e636410" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+      <a href="/login?return_to=%2Fhaellingsen%2Fhaellingsen.github.io" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:306988075,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0e07dab86616840c06a70f2c3b34fed9f27697fa906ca363b1103b4049d2abcf" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -960,7 +960,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -973,7 +973,7 @@
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>1929d4c993</span>
+      <span class="css-truncate-target" data-menu-button>9777be6676</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -1020,7 +1020,7 @@
             query-endpoint="/haellingsen/haellingsen.github.io/refs"
             
             cache-key="v0:1639523580.393472"
-            current-committish="MTkyOWQ0Yzk5M2IyMjYwMDYzOTAwZTYxOTE1M2NmMDVkZmQzN2UwMQ=="
+            current-committish="OTc3N2JlNjY3NmY4NjhjNWQ3YzE5YWI3OWJmOGIwODU5MjZjNDVlZQ=="
             default-branch="bWFpbg=="
             name-with-owner="aGFlbGxpbmdzZW4vaGFlbGxpbmdzZW4uZ2l0aHViLmlv"
             prefetch-on-mouseover
@@ -1046,7 +1046,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/haellingsen/haellingsen.github.io/blob/{{ urlEncodedRefName }}/docs/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/haellingsen/haellingsen.github.io/blob/{{ urlEncodedRefName }}/docs/PureSnow.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1072,7 +1072,7 @@
             data-targets="input-demux.sinks"
             query-endpoint="/haellingsen/haellingsen.github.io/refs"
             cache-key="v0:1639523580.393472"
-            current-committish="MTkyOWQ0Yzk5M2IyMjYwMDYzOTAwZTYxOTE1M2NmMDVkZmQzN2UwMQ=="
+            current-committish="OTc3N2JlNjY3NmY4NjhjNWQ3YzE5YWI3OWJmOGIwODU5MjZjNDVlZQ=="
             default-branch="bWFpbg=="
             name-with-owner="aGFlbGxpbmdzZW4vaGFlbGxpbmdzZW4uZ2l0aHViLmlv"
           >
@@ -1086,7 +1086,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/haellingsen/haellingsen.github.io/blob/{{ urlEncodedRefName }}/docs/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/haellingsen/haellingsen.github.io/blob/{{ urlEncodedRefName }}/docs/PureSnow.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1117,9 +1117,92 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" rel="nofollow" href="/haellingsen/haellingsen.github.io/tree/1929d4c993b2260063900e619153cf05dfd37e01"><span>haellingsen.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" rel="nofollow" href="/haellingsen/haellingsen.github.io/tree/1929d4c993b2260063900e619153cf05dfd37e01/docs"><span>docs</span></a></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" rel="nofollow" href="/haellingsen/haellingsen.github.io/tree/9777be6676f868c5d7c19ab79bf8b085926c45ee"><span>haellingsen.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" rel="nofollow" href="/haellingsen/haellingsen.github.io/tree/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs"><span>docs</span></a></span><span class="separator">/</span><strong class="final-path">PureSnow.js</strong>
+          <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:306988075,&quot;ref&quot;:&quot;9777be6676f868c5d7c19ab79bf8b085926c45ee&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6b130aba5229e11d250e3b381b759676e8ee958bc943e38d493f0529bb73973f" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:306988075,&quot;ref&quot;:&quot;9777be6676f868c5d7c19ab79bf8b085926c45ee&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339d91c55817d2afe5fb69e336df3dcf4618c508d75408a3220fae3cb6620de5" href="/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js#L11">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>toggle_snow</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:306988075,&quot;ref&quot;:&quot;9777be6676f868c5d7c19ab79bf8b085926c45ee&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339d91c55817d2afe5fb69e336df3dcf4618c508d75408a3220fae3cb6620de5" href="/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js#L22">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>spawn_snow</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:306988075,&quot;ref&quot;:&quot;9777be6676f868c5d7c19ab79bf8b085926c45ee&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339d91c55817d2afe5fb69e336df3dcf4618c508d75408a3220fae3cb6620de5" href="/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js#L34">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>add_css</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:306988075,&quot;ref&quot;:&quot;9777be6676f868c5d7c19ab79bf8b085926c45ee&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339d91c55817d2afe5fb69e336df3dcf4618c508d75408a3220fae3cb6620de5" href="/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js#L44">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>random_int</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:306988075,&quot;ref&quot;:&quot;9777be6676f868c5d7c19ab79bf8b085926c45ee&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339d91c55817d2afe5fb69e336df3dcf4618c508d75408a3220fae3cb6620de5" href="/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js#L48">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>random_range</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:306988075,&quot;ref&quot;:&quot;9777be6676f868c5d7c19ab79bf8b085926c45ee&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339d91c55817d2afe5fb69e336df3dcf4618c508d75408a3220fae3cb6620de5" href="/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js#L56">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>spawnSnowCSS</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:306988075,&quot;ref&quot;:&quot;9777be6676f868c5d7c19ab79bf8b085926c45ee&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="339d91c55817d2afe5fb69e336df3dcf4618c508d75408a3220fae3cb6620de5" href="/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js#L99">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>onload</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
       </h2>
-      <a href="/haellingsen/haellingsen.github.io/find/1929d4c993b2260063900e619153cf05dfd37e01"
+      <a href="/haellingsen/haellingsen.github.io/find/9777be6676f868c5d7c19ab79bf8b085926c45ee"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1133,7 +1216,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:306988075,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="54c09d1c011ad9e14cb922a9c475c1b78f710f56e869e6f75355f88582df58ed" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/haellingsen/haellingsen.github.io/find/1929d4c993b2260063900e619153cf05dfd37e01">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:306988075,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="aaf6f26e9e7a94117295946963b53874c6405bec38db4225d01df0acdc5c7f90" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/haellingsen/haellingsen.github.io/find/9777be6676f868c5d7c19ab79bf8b085926c45ee">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -1143,15 +1226,21 @@
                   <span class="text-small color-fg-muted" aria-hidden="true">L</span>
                 </span>
 </button>            </li>
+            <li data-toggle-for="blob-more-options-details">
+              <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+                  <span class="flex-auto">Go to definition</span>
+                  <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+                </span>
+</button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="docs/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="docs/PureSnow.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1166,7 +1255,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/haellingsen/haellingsen.github.io/contributors/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html" class="commit-loader">
+      <include-fragment src="/haellingsen/haellingsen.github.io/contributors/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1194,18 +1283,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      17 lines (14 sloc)
+      104 lines (82 sloc)
       <span class="file-info-divider"></span>
-    360 Bytes
+    2.9 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a href="/haellingsen/haellingsen.github.io/raw/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Raw
+      <a href="/haellingsen/haellingsen.github.io/raw/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Raw
 </a>
-        <a href="/haellingsen/haellingsen.github.io/blame/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">  Blame
+        <a href="/haellingsen/haellingsen.github.io/blame/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">  Blame
 </a>
     </div>
 
@@ -1219,13 +1308,13 @@
           </button>
 
         
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhaellingsen%2Fhaellingsen.github.io%2Fblob%2F1929d4c993b2260063900e619153cf05dfd37e01%2Fdocs%2Findex.html" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhaellingsen%2Fhaellingsen.github.io%2Fblob%2F9777be6676f868c5d7c19ab79bf8b085926c45ee%2Fdocs%2FPureSnow.js" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
           </a>
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhaellingsen%2Fhaellingsen.github.io%2Fblob%2F1929d4c993b2260063900e619153cf05dfd37e01%2Fdocs%2Findex.html" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhaellingsen%2Fhaellingsen.github.io%2Fblob%2F9777be6676f868c5d7c19ab79bf8b085926c45ee%2Fdocs%2FPureSnow.js" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
@@ -1246,14 +1335,14 @@
             <li>
             </li>
           <li>
-            <a class="dropdown-item" href="/haellingsen/haellingsen.github.io/raw/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html">
+            <a class="dropdown-item" href="/haellingsen/haellingsen.github.io/raw/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/haellingsen/haellingsen.github.io/blame/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html">
+              <a class="dropdown-item" href="/haellingsen/haellingsen.github.io/blame/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js">
                 View blame
               </a>
             </li>
@@ -1265,7 +1354,7 @@
 
 
       
-  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
 
       
 <div class="js-check-bidi blob-code-content">
@@ -1292,10 +1381,10 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="docs/index.html">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="docs/PureSnow.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>snowflakes_count</span> <span class=pl-c1>=</span> <span class=pl-c1>200</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number" data-line-number="2"></td>
@@ -1304,28 +1393,29 @@
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// let base_css = ``; // Put your custom base css here</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L5" class="blob-num js-line-number js-code-nav-line-number" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Nefer Ellingsen - 2021<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L6" class="blob-num js-line-number js-code-nav-line-number" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>./style.css</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L7" class="blob-num js-line-number js-code-nav-line-number" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
 </td>
         </tr>
         <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-k>typeof</span> <span class=pl-s1>total</span> <span class=pl-c1>!==</span> <span class=pl-s>&#39;undefined&#39;</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>snowflakes_count</span> <span class=pl-c1>=</span> <span class=pl-s1>total</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number" data-line-number="9"></td>
@@ -1334,35 +1424,397 @@
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// This function allows you to turn on and off the snow</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>id</span>=&quot;<span class=pl-s>snow</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>toggle_snow</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>container</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>check_box</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;toggle_snow&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>&lt;</span><span class=pl-ent>img</span> <span class=pl-c1>alt</span>=&quot;<span class=pl-s>God jul og godt nyttår</span>&quot; <span class=pl-c1>src</span>=&quot;<span class=pl-s>F1CBA841-DA27-46C2-AF53-4A8DD08194D2.jpeg</span>&quot; /&gt;</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>check_box</span><span class=pl-kos>.</span><span class=pl-c1>checked</span> <span class=pl-c1>==</span> <span class=pl-c1>true</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&#39;snow&#39;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>display</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;block&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>./PureSnow.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&#39;snow&#39;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>display</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;none&quot;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Creating snowflakes</span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>spawn_snow</span><span class=pl-kos>(</span><span class=pl-s1>snow_density</span> <span class=pl-c1>=</span> <span class=pl-c1>200</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>snow_density</span> <span class=pl-c1>-=</span> <span class=pl-c1>1</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-s1>x</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span> <span class=pl-s1>x</span> <span class=pl-c1>&lt;</span> <span class=pl-s1>snow_density</span><span class=pl-kos>;</span> <span class=pl-s1>x</span><span class=pl-c1>++</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>board</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&#39;div&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>board</span><span class=pl-kos>.</span><span class=pl-c1>className</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;snowflake&quot;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">        <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&#39;snow&#39;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>board</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Append style for each snowflake to the head</span></td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>add_css</span><span class=pl-kos>(</span><span class=pl-s1>rule</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>css</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&#39;style&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>css</span><span class=pl-kos>.</span><span class=pl-c1>type</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;text/css&#39;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>css</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createTextNode</span><span class=pl-kos>(</span><span class=pl-s1>rule</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span> <span class=pl-c>// Support for the rest</span></td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementsByTagName</span><span class=pl-kos>(</span><span class=pl-s>&quot;head&quot;</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>css</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Math</span></td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>random_int</span><span class=pl-kos>(</span><span class=pl-s1>value</span> <span class=pl-c1>=</span> <span class=pl-c1>100</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>floor</span><span class=pl-kos>(</span><span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>random</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>*</span> <span class=pl-s1>value</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-c1>1</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>random_range</span><span class=pl-kos>(</span><span class=pl-s1>min</span><span class=pl-kos>,</span> <span class=pl-s1>max</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>min</span> <span class=pl-c1>=</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>ceil</span><span class=pl-kos>(</span><span class=pl-s1>min</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>max</span> <span class=pl-c1>=</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>floor</span><span class=pl-kos>(</span><span class=pl-s1>max</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>floor</span><span class=pl-kos>(</span><span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>random</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>*</span> <span class=pl-kos>(</span><span class=pl-s1>max</span> <span class=pl-c1>-</span> <span class=pl-s1>min</span> <span class=pl-c1>+</span> <span class=pl-c1>1</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-s1>min</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Create style for snowflake</span></td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class=pl-k>function</span> <span class=pl-en>spawnSnowCSS</span><span class=pl-kos>(</span><span class=pl-s1>snow_density</span> <span class=pl-c1>=</span> <span class=pl-c1>200</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>snowflake_name</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;snowflake&quot;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>rule</span> <span class=pl-c1>=</span> <span class=pl-s>``</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-k>typeof</span> <span class=pl-s1>base_css</span> <span class=pl-c1>!==</span> <span class=pl-s>&#39;undefined&#39;</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>rule</span> <span class=pl-c1>=</span> <span class=pl-s1>base_css</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>for</span><span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-s1>i</span> <span class=pl-c1>=</span> <span class=pl-c1>1</span><span class=pl-kos>;</span> <span class=pl-s1>i</span> <span class=pl-c1>&lt;</span> <span class=pl-s1>snow_density</span><span class=pl-kos>;</span> <span class=pl-s1>i</span><span class=pl-c1>++</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>random_x</span> <span class=pl-c1>=</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>random</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>*</span> <span class=pl-c1>100</span><span class=pl-kos>;</span> <span class=pl-c>// vw</span></td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>random_offset</span> <span class=pl-c1>=</span> <span class=pl-en>random_range</span><span class=pl-kos>(</span><span class=pl-c1>-</span><span class=pl-c1>100000</span><span class=pl-kos>,</span> <span class=pl-c1>100000</span><span class=pl-kos>)</span> <span class=pl-c1>*</span> <span class=pl-c1>0.0001</span><span class=pl-kos>;</span> <span class=pl-c>// vw;</span></td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>random_x_end</span> <span class=pl-c1>=</span> <span class=pl-s1>random_x</span> <span class=pl-c1>+</span> <span class=pl-s1>random_offset</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>random_x_end_yoyo</span> <span class=pl-c1>=</span> <span class=pl-s1>random_x</span> <span class=pl-c1>+</span> <span class=pl-kos>(</span><span class=pl-s1>random_offset</span> <span class=pl-c1>/</span> <span class=pl-c1>2</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>random_yoyo_time</span> <span class=pl-c1>=</span> <span class=pl-en>random_range</span><span class=pl-kos>(</span><span class=pl-c1>30000</span><span class=pl-kos>,</span> <span class=pl-c1>80000</span><span class=pl-kos>)</span> <span class=pl-c1>/</span> <span class=pl-c1>100000</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>random_yoyo_y</span> <span class=pl-c1>=</span> <span class=pl-s1>random_yoyo_time</span> <span class=pl-c1>*</span> <span class=pl-c1>100</span><span class=pl-kos>;</span> <span class=pl-c>// vh</span></td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>random_scale</span> <span class=pl-c1>=</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>random</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>fall_duration</span> <span class=pl-c1>=</span> <span class=pl-en>random_range</span><span class=pl-kos>(</span><span class=pl-c1>10</span><span class=pl-kos>,</span> <span class=pl-c1>30</span><span class=pl-kos>)</span> <span class=pl-c1>*</span> <span class=pl-c1>1</span><span class=pl-kos>;</span> <span class=pl-c>// s</span></td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>fall_delay</span> <span class=pl-c1>=</span> <span class=pl-en>random_int</span><span class=pl-kos>(</span><span class=pl-c1>30</span><span class=pl-kos>)</span> <span class=pl-c1>*</span> <span class=pl-c1>-</span><span class=pl-c1>1</span><span class=pl-kos>;</span> <span class=pl-c>// s</span></td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>let</span> <span class=pl-s1>opacity_</span> <span class=pl-c1>=</span> <span class=pl-v>Math</span><span class=pl-kos>.</span><span class=pl-en>random</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>rule</span> <span class=pl-c1>+=</span> <span class=pl-s>`</span></td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line"><span class=pl-s>        .<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>snowflake_name</span><span class=pl-kos>}</span></span>:nth-child(<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>i</span><span class=pl-kos>}</span></span>) {</span></td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class=pl-s>            opacity: <span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>opacity_</span><span class=pl-kos>}</span></span>;</span></td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line"><span class=pl-s>            transform: translate(<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>random_x</span><span class=pl-kos>}</span></span>vw, -10px) scale(<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>random_scale</span><span class=pl-kos>}</span></span>);</span></td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class=pl-s>            animation: fall-<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>i</span><span class=pl-kos>}</span></span> <span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>fall_duration</span><span class=pl-kos>}</span></span>s <span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>fall_delay</span><span class=pl-kos>}</span></span>s linear infinite;</span></td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line"><span class=pl-s>        }</span></td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line"><span class=pl-s></span></td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line"><span class=pl-s>        @keyframes fall-<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>i</span><span class=pl-kos>}</span></span> {</span></td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line"><span class=pl-s>            <span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>random_yoyo_time</span><span class=pl-c1>*</span><span class=pl-c1>100</span><span class=pl-kos>}</span></span>% {</span></td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line"><span class=pl-s>                transform: translate(<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>random_x_end</span><span class=pl-kos>}</span></span>vw, <span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>random_yoyo_y</span><span class=pl-kos>}</span></span>vh) scale(<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>random_scale</span><span class=pl-kos>}</span></span>);</span></td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class=pl-s>            }</span></td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line"><span class=pl-s></span></td>
+        </tr>
+        <tr>
+          <td id="L87" class="blob-num js-line-number js-code-nav-line-number" data-line-number="87"></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line"><span class=pl-s>            to {</span></td>
+        </tr>
+        <tr>
+          <td id="L88" class="blob-num js-line-number js-code-nav-line-number" data-line-number="88"></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class=pl-s>                transform: translate(<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>random_x_end_yoyo</span><span class=pl-kos>}</span></span>vw, 100vh) scale(<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>random_scale</span><span class=pl-kos>}</span></span>);</span></td>
+        </tr>
+        <tr>
+          <td id="L89" class="blob-num js-line-number js-code-nav-line-number" data-line-number="89"></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line"><span class=pl-s>            }</span></td>
+        </tr>
+        <tr>
+          <td id="L90" class="blob-num js-line-number js-code-nav-line-number" data-line-number="90"></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line"><span class=pl-s>            </span></td>
+        </tr>
+        <tr>
+          <td id="L91" class="blob-num js-line-number js-code-nav-line-number" data-line-number="91"></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line"><span class=pl-s>        }</span></td>
+        </tr>
+        <tr>
+          <td id="L92" class="blob-num js-line-number js-code-nav-line-number" data-line-number="92"></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line"><span class=pl-s>        `</span></td>
+        </tr>
+        <tr>
+          <td id="L93" class="blob-num js-line-number js-code-nav-line-number" data-line-number="93"></td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L94" class="blob-num js-line-number js-code-nav-line-number" data-line-number="94"></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L95" class="blob-num js-line-number js-code-nav-line-number" data-line-number="95"></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>add_css</span><span class=pl-kos>(</span><span class=pl-s1>rule</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L96" class="blob-num js-line-number js-code-nav-line-number" data-line-number="96"></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L97" class="blob-num js-line-number js-code-nav-line-number" data-line-number="97"></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L98" class="blob-num js-line-number js-code-nav-line-number" data-line-number="98"></td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// Load the rules and execute after the DOM loads</span></td>
+        </tr>
+        <tr>
+          <td id="L99" class="blob-num js-line-number js-code-nav-line-number" data-line-number="99"></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line"><span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-en>onload</span> <span class=pl-c1>=</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L100" class="blob-num js-line-number js-code-nav-line-number" data-line-number="100"></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>spawnSnowCSS</span><span class=pl-kos>(</span><span class=pl-s1>snowflakes_count</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L101" class="blob-num js-line-number js-code-nav-line-number" data-line-number="101"></td>
+          <td id="LC101" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>spawn_snow</span><span class=pl-kos>(</span><span class=pl-s1>snowflakes_count</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L102" class="blob-num js-line-number js-code-nav-line-number" data-line-number="102"></td>
+          <td id="LC102" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L103" class="blob-num js-line-number js-code-nav-line-number" data-line-number="103"></td>
+          <td id="LC103" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L104" class="blob-num js-line-number js-code-nav-line-number" data-line-number="104"></td>
+          <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// TODO add progress bar for slower clients</span></td>
         </tr>
   </table>
 </div>
@@ -1388,7 +1840,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/haellingsen/haellingsen.github.io/blame/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/haellingsen/haellingsen.github.io/blame/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/haellingsen/haellingsen.github.io/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -1410,6 +1862,16 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/haellingsen/haellingsen.github.io/find-definition"
+     data-tagsearch-ref="9777be6676f868c5d7c19ab79bf8b085926c45ee">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 </div>
@@ -1440,16 +1902,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b423d88b9f8b5a43ddcaea427994fe92b3f22ef03a02ded19a040625c2542e58" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="48d95ec45f7c204c2e71f7a19d89933509b3e6dabbb666004673405574fecd44" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a9d1aedbc417f8b0e3362f9dce25ab92c46f35f3935eed3263c5b518ee7ac671" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="072aca8b96ee9d5482ac25102b31aa8fe003bcb338d99f3985a8679a59d78505" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="90ab42106d2ff02dab222a519a3574a7c949181898dfa81708c0f58f68b0d02a" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3c75bb5a44d7883fdc653d5b6a65f57d8dd816b093fe0bf6b6ba44995f2aeed2" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="954577b8d4b46435979cf36c90ae6a3aa9203b3b7035876f8961a83b7a0456a0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ec22b18d8326c5dbe6cae4f94a500f2b4f0905330ce0b4c1cc661056bc0dea0d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2f1c2b3b68b0c02af7bcfc707960cb542f0bdb15f3a4b67f7b688e8ee7cfad0e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ac7d7468625102f9d6339d56cfbf7f8ee41873356fbd96c8b2e170af0a900aa3" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6b22ea4c8aeb086c5c96bdf2138d5c64d94e2eb13badc4b52314b82fba815176" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7fd4662b9bc1c0e954339048466c83917391a54816e65103662d9eaf18240ac4" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/1929d4c993b2260063900e619153cf05dfd37e01/docs/index.html&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="49bb26cd8b8cb8a7ba3310d14d92d80245c18f27a01a4bcbdbdfc5ad71b8e01d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1e6788ac63066292d368fe073779bc9d1aea8c4012a776da76ad7aedc8eba146" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d1db17c847247b97cb6764c5176bb6e4d0da0ee64c4c7e89535a8467880966a3" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c0895f0134fc3d231f369087594679aa2da0c6533323875f900a52e554745b42" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9113c51e5aaf707726d77686eda513d0f93da90e58b90cbdf17d828596a30ba9" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/haellingsen/haellingsen.github.io/blob/9777be6676f868c5d7c19ab79bf8b085926c45ee/docs/PureSnow.js&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1248da9ff551cb21260e702218747c0d137a215c500bf8e2a18add6d6d9152fa" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
